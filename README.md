@@ -3,9 +3,9 @@
 **Sociologist by heart** | **Software Dev by code** | **Cultural Detective by day** | **Urban Explorer by night**  
 **¡Viva la revolución digital!**
 
-Welcome to my GitHub — a space where **computational social science** collides with **data science**, **AI**, and a whole lot of **urban culture**! I'm Angel Abundis, your friendly neighborhood sociologist, software faux-hacker, and graffiti aficionado. My work merges **sociology** with **code**, using data to explore, analyze, urban stories hidden in plain sight.
+Welcome to my GitHub — a space where **computational social science** collides with **data science**, **AI**, and a whole lot of **urban culture**! I'm Angel Abundis, your friendly neighborhood sociologist, software faux-hacker, and graffiti aficionado. My work merges **sociology** with **code**, using data to explore, analyze, urban stories hidden in plain sight. Here, you’ll find projects that dive deep into **graffiti**, **urban movements**, and **social networks**, using computational tools to make sense of social and cultural patterns. I am committed to using computational tools to address complex social issues.
 
-Here, you’ll find projects that dive deep into **graffiti**, **urban movements**, and **social networks**, using computational tools to make sense of social and cultural patterns. I am committed to using computational tools to address complex social issues.
+
 ---
 
 ## **📚 Education - Cool, but Scholarly**
